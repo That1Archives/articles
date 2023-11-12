@@ -1,0 +1,20 @@
+.articleTitle {
+    font-family: Arial;
+}
+
+h3 {
+    font-family: Sans-serif;
+}
+
+p {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+article {
+    font-family: Georgia;
+}
+
+.home {
+    font-family: 'Segoe UI';
+}
